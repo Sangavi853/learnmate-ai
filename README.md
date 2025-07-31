@@ -10,7 +10,8 @@ An Agentic AI project using IBM Watsonx and Granite that builds personalized lea
 
 ## 📁 Project Structure
 - `learnmate-case-study.pptx` – Final PPT submission
-- `screenshots/` – UI & Certificate screenshots
+- `screenshots/` – UI & screenshots
+- `certificates/` – Certificate screenshots
 
 ## 🧠 Tech Stack
 - IBM Watsonx
